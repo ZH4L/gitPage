@@ -1,5 +1,5 @@
 # 作用
- 用于giyhub.io保存项目
+ 用于github.io保存项目
 
 # 启动本地服务
 ``` bash
